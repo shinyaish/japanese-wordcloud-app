@@ -2,5 +2,4 @@ streamlit
 pandas
 wordcloud
 matplotlib
-mecab-python3
-ipadic
+janome
