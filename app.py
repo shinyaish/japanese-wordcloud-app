@@ -7,7 +7,7 @@ from janome.tokenizer import Tokenizer
 
 # ファイルの設定
 CSV_FILE = "comments.csv"
-FONT_PATH = "fonts/ipagp.ttf"
+FONT_PATH = "fonts/ipag.ttf"
 
 # 初期化
 if not os.path.exists(CSV_FILE) or os.stat(CSV_FILE).st_size == 0:
